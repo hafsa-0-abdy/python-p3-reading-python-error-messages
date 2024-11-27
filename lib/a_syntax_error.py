@@ -1,3 +1,3 @@
-#!/usr/bin/env python3
-
-poor_syntax = 2 * #
+# lib/a_syntax_error.py
+poor_syntax = 2 * 3
+print(poor_syntax)
